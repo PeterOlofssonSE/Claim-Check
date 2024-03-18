@@ -4,6 +4,11 @@
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "APP_KIND": "workflowapp",
     "ProjectDirectoryPath": "c:\\Users\\peter\\Documents\\Code\\repos\\Claim-Check",
-    "FUNCTIONS_WORKER_RUNTIME": "node"
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WORKFLOWS_TENANT_ID": "f0f294b8-404d-442a-aa32-15f390295a6a",
+    "WORKFLOWS_SUBSCRIPTION_ID": "7e234c71-17e1-4720-af5b-a18615f4c2ea",
+    "WORKFLOWS_RESOURCE_GROUP_NAME": "Claim-Check",
+    "WORKFLOWS_LOCATION_NAME": "westeurope",
+    "WORKFLOWS_MANAGEMENT_BASE_URI": "https://management.azure.com/"
   }
 }
